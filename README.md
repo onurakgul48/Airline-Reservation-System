@@ -20,63 +20,8 @@ he Airline Reservation System is a web-based application that allows users to se
 - **Deployment**: Heroku (example)
 
 ## BLock Diagram
-                                                  
-+-------------------------------------------+
-|                   Main                    |
-+-------------------------------------------+
-| Actions:                                  |
-| - Book Flight                            |
-| - Cancel Ticket                          |
-| - Check Ticket Details                   |
-| - Exit                                   |
-+-------------------------------------------+
-                  |
-                  | User Action
-                  V
-+-------------------------------------------+
-|               Book Flight                 |
-+-------------------------------------------+
-| Booking Types:                            |
-| - Domestic Booking                        |
-| - International Booking                   |
-+-------------------------------------------+
-                  |
-                  | Booking Type
-                  V
-+-------------------------------------------+
-|           Domestic Booking                |
-+-------------------------------------------+
-| Process:                                  |
-| - Gather Passenger Details                |
-| - Payment                                 |
-| - File Operations                         |
-+-------------------------------------------+
-                  |
-                  | Proceed to Next Action
-                  V
-+-------------------------------------------+
-|           Cancel Ticket                    |
-+-------------------------------------------+
-| Process:                                  |
-| - Provide Ticket PNR                      |
-| - Cancel Ticket                           |
-+-------------------------------------------+
-                  |
-                  | Proceed to Next Action
-                  V
-+-------------------------------------------+
-|        Check Ticket Details                |
-+-------------------------------------------+
-| Process:                                  |
-| - Provide Ticket PNR                      |
-| - Verify and Display Ticket Details       |
-+-------------------------------------------+
-                  |
-                  | Proceed to Next Action
-                  V
-+-------------------------------------------+
-|                  Exit                     |
-+-------------------------------------------+
+![image](https://github.com/onurakgul48/Airline-Reservation-System/assets/74906633/744e2700-018f-41ce-9152-d30773f71fe6)
+                                     
                                                                   
 ## Installation
 
