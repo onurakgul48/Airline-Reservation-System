@@ -20,7 +20,7 @@ he Airline Reservation System is a web-based application that allows users to se
 - **Deployment**: Heroku (example)
 
 ## BLock Diagram
-![image](https://github.com/onurakgul48/Airline-Reservation-System/assets/74906633/744e2700-018f-41ce-9152-d30773f71fe6)
+![image](https://github.com/onurakgul48/Airline-Reservation-System/assets/74906633/f5f84537-553f-45cc-9d8a-68020d7ae4c2)
                                      
                                                                   
 ## Installation
